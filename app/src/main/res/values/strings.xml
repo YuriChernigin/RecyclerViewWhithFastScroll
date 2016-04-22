@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_name_string">Имя</string>
+    <string name="item_char_string">А</string>
+
+ <!--   <string-array name="item_string">
+        <item>Пидр</item>
+        <item>Лох</item>
+        <item>Пименов</item>
+        <item>Рукоблуд</item>
+        <item>Мудила</item>
+        <item>Жополиз</item>
+        <item>Скотина</item>
+    </string-array> -->
+</resources>
